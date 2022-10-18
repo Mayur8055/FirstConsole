@@ -1,0 +1,15 @@
+C:\C#\csharp\FirstConsole\FirstWinApp\bin\Debug\net6.0-windows\FirstWinApp.exe
+C:\C#\csharp\FirstConsole\FirstWinApp\bin\Debug\net6.0-windows\FirstWinApp.deps.json
+C:\C#\csharp\FirstConsole\FirstWinApp\bin\Debug\net6.0-windows\FirstWinApp.runtimeconfig.json
+C:\C#\csharp\FirstConsole\FirstWinApp\bin\Debug\net6.0-windows\FirstWinApp.dll
+C:\C#\csharp\FirstConsole\FirstWinApp\bin\Debug\net6.0-windows\FirstWinApp.pdb
+C:\C#\csharp\FirstConsole\FirstWinApp\obj\Debug\net6.0-windows\FirstWinApp.csproj.AssemblyReference.cache
+C:\C#\csharp\FirstConsole\FirstWinApp\obj\Debug\net6.0-windows\FirstWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\csharp\FirstConsole\FirstWinApp\obj\Debug\net6.0-windows\FirstWinApp.AssemblyInfoInputs.cache
+C:\C#\csharp\FirstConsole\FirstWinApp\obj\Debug\net6.0-windows\FirstWinApp.AssemblyInfo.cs
+C:\C#\csharp\FirstConsole\FirstWinApp\obj\Debug\net6.0-windows\FirstWinApp.csproj.CoreCompileInputs.cache
+C:\C#\csharp\FirstConsole\FirstWinApp\obj\Debug\net6.0-windows\FirstWinApp.dll
+C:\C#\csharp\FirstConsole\FirstWinApp\obj\Debug\net6.0-windows\refint\FirstWinApp.dll
+C:\C#\csharp\FirstConsole\FirstWinApp\obj\Debug\net6.0-windows\FirstWinApp.pdb
+C:\C#\csharp\FirstConsole\FirstWinApp\obj\Debug\net6.0-windows\FirstWinApp.genruntimeconfig.cache
+C:\C#\csharp\FirstConsole\FirstWinApp\obj\Debug\net6.0-windows\ref\FirstWinApp.dll
